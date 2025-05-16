@@ -23,4 +23,4 @@ if jogo == "Cod_war":
     elif sensibilidade >= 1.0:
         print("Sensibilidade alta.")
     else:
-        print("Adeus")
+        print("Sensibilidade trabalha com numeros, idiota")
